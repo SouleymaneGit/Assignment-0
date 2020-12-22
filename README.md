@@ -1,6 +1,3 @@
- README.md   
-      
-      
       00-greetFriend
 
       01-titleCaseEdit
