@@ -1,5 +1,5 @@
 function greetFriend(name) {
-  return `Hello, ${name}!`; // test
+  return `Hello, ${name}!`; 
 }
 
 // Do not edit this line;
